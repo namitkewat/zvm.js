@@ -1,4 +1,5 @@
-# zvm - The Zig Version Manager(in Javascript)
+# zvm - The Zig Version Manager (JavaScript Edition)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform Support](https://img.shields.io/badge/platform-linux%20|%20macOS%20|%20windows-blue)
 ![Runtime Support](https://img.shields.io/badge/runtime-Node.js%20|%20Deno%20|%20Bun-green)

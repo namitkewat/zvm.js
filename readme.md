@@ -13,6 +13,8 @@ Unlike other Zig version managers written in Go or Zig, this JavaScript implemen
 * **🛠️ Single-file implementation** - Pure JavaScript with no dependencies beyond `tar`
 * **🌐 Cross-platform support** - Works on Linux, macOS, and Windows (PowerShell & CMD)
 * **⚡ Runtime agnostic** - Runs with Node.js, Deno, or Bun
+* **👩‍💻 Beginner-friendly** - Easy to understand and modify with basic scripting knowledge
+* **⚙️ No toolchain lock-in** - Modify behavior instantly without compile steps or maintainer dependencies
 * **🏷️ Aliasing** - Assign custom names to installed versions
 * **📁 Project-specific versions** - Auto-detects `.zig-version` files
 * **🔁 Mirror support** - Downloads from fastest available community mirror
